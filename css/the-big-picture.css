@@ -1,0 +1,11 @@
+body {
+  background: url('https://www.static-contents.youth4work.com/university/Documents/Colleges/CollegeImages/2210832b-2aff-4dd2-b2c2-dff3ab5caf72.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+.backdrop {
+  background: white;
+}
